@@ -1,0 +1,20 @@
+{
+    "product_name": "Basketball",
+    "price": 200.00,
+    "stock": 3,
+    "tagIds": [1, 2, 3, 4],
+
+    
+
+    "category_name": "jackets",
+    "products": [
+		{
+			"id": 4,
+			"product_name": "Top 40 Music Compilation Vinyl Record",
+			"price": 13,
+			"stock": 50,
+			"category_id": 3
+		}
+	]
+
+}
