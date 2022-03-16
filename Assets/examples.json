@@ -7,14 +7,8 @@
     
 
     "category_name": "jackets",
-    "products": [
-		{
-			"id": 4,
-			"product_name": "Top 40 Music Compilation Vinyl Record",
-			"price": 13,
-			"stock": 50,
-			"category_id": 3
-		}
-	]
+
+
+	"tag_name": "outdoors"
 
 }
